@@ -1,0 +1,31 @@
+.myBg {
+    background : url('../assets/images/bg/satu.jpg');
+    background-size : cover;
+    height :100vh;
+    
+}
+.myBg2 {
+    background : url('../assets/images/bg/tiga.jpg');
+    background-size : cover;
+    height :auto;
+}
+.intro{
+    height: 300px;
+    display :flex;
+    justify-content :end;
+    align-items :center;
+}
+.title{
+    font-size: 3rem;
+    font-weight:800;
+    line-height:1;
+    text-shadow:2px 2px green;
+    color : grey;
+    letter-spacing : 2.5px;
+}
+
+.bgProduk{
+    background : url('../assets/images/bg/dua.jpg');
+    background-size : cover;
+    height :300vh;
+}
